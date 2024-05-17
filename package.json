@@ -1,6 +1,7 @@
 {
   "name": "alisyaifudin.github.io",
   "type": "module",
+  "packageManager": "pnpm@8.15.5",
   "version": "0.0.1",
   "scripts": {
     "dev": "astro dev",
